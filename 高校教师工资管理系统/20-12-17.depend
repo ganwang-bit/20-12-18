@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608181777 source:c:\users\1\desktop\c语言\20-12-17\test.c
+
+1608202325 source:c:\users\1\desktop\c语言\20-12-17\高校教师工资管理系统.c
+	"my_stdio.h"
+
+1608188586 c:\users\1\desktop\c语言\20-12-17\my_stdio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<windows.h>
+
+1608285220 source:c:\users\1\desktop\c语言\高校教师工资管理系统\高校教师工资管理系统.c
+	"my_stdio.h"
+
+1608254480 c:\users\1\desktop\c语言\高校教师工资管理系统\my_stdio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<windows.h>
+
+1608290346 source:c:\users\1\desktop\c语言\高校教师工资管理系统\test.c
+	"my_stdio.h"
+
